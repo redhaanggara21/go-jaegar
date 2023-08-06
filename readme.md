@@ -1,7 +1,7 @@
 # GENERAL PURPOSE
 
-- THIS REPO IS USED FOR EXAMPLE OF IMPLEMENTATION JEAGER TRACING IN GOLANG
-- USING "github.com/uber/jaeger-client-go" LIBRARY
+- Implement Jeager Tracing In Golang
+- Using "github.com/uber/jaeger-client-go" Library
 
 # HOW TO
 
